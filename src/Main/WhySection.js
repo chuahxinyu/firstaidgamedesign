@@ -5,8 +5,6 @@ export default function WhySection() {
     return (
         <div className="section">
             <div className="cprstat"></div>
-            <h1></h1> 
-            <h2></h2>
             <div className="content">
               <p>
                 T

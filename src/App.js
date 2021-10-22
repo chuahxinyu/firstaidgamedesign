@@ -1,14 +1,10 @@
 import './App.css';
-import Landing from "./Main/Landing"
 import WhatSection from "./Main/WhatSection";
-import WhySection from "./Main/WhySection"
-import HowSection from "./Main/HowSection"
 import References from "./Main/References"
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Redirect,
 } from "react-router-dom"
 import {
   ScrollingProvider,

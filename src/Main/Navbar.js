@@ -2,10 +2,7 @@ import React from 'react'
 import { useScrollSection } from 'react-scroll-section';
 
 export default function Navbar () {
-const landingSection = useScrollSection("landing")
 const whatSection = useScrollSection("what")
-const whySection = useScrollSection("why")
-const howSection = useScrollSection("how")
 const referencesSection = useScrollSection("references")
 
 return (
