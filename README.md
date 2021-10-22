@@ -1,4 +1,4 @@
-<h1 align="center"> FIRST AID: A Game Concept </h1>
+<h1 align="center"> FIRST AID: The Game Design </h1>
 
 > Front-end website made with React to showcase my CCDP10003 Assignment
 
