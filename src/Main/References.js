@@ -13,22 +13,22 @@ export default function References() {
                 <img src="proto1.png" alt="prototype chapters level"></img>
                 
                 <div className="why-columns">
+                    <a href="https://github.com/chuahxinyu/FirstAidGameDesignAndPrototype/releases/download/prototype/FirstAidGamePrototype-Mac.zip" target="_blank" rel="noreferrer">
                     <div className="navbar-btn special why-col">
                         <FaApple style={{paddingRight:"5px"}} />
-                        <a href="https://github.com/chuahxinyu/FirstAidGameDesignAndPrototype/releases/download/prototype/FirstAidGamePrototype-Mac.zip" target="_blank" rel="noreferrer">
                             Mac Installation
-                        </a>
                     </div>
+                    </a>
+                    <a href="https://github.com/chuahxinyu/FirstAidGameDesignAndPrototype/releases/download/prototype/FirstAidGamePrototype-Windows.exe" target="_blank" rel="noreferrer">
                     <div className="navbar-btn special why-col">
                         <FaWindows style={{paddingRight:"5px"}} />
-                        <a href="https://github.com/chuahxinyu/FirstAidGameDesignAndPrototype/releases/download/prototype/FirstAidGamePrototype-Windows.exe" target="_blank" rel="noreferrer">
                             Windows Installation
-                        </a>
                     </div>
+                    </a>
                 </div>
-                <p>TO MAC USERS (like you, David): Please use this <a href="https://github.com/chuahxinyu/FirstAidGameDesignAndPrototype/blob/master/mac_instructions.md" target="_blank" rel="noreferrer"><u>
+                <p>TO MAC USERS: Please use this <a href="https://github.com/chuahxinyu/FirstAidGameDesignAndPrototype/blob/master/mac_instructions.md" target="_blank" rel="noreferrer"><u>
                     Mac Installation Guide
-                </u></a></p>
+                </u></a> to help you open the app.</p>
                 
             </div>
         </div>
